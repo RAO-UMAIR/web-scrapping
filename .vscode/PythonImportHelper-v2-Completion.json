@@ -1,0 +1,542 @@
+[
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "models.product",
+        "description": "models.product",
+        "isExtraImport": true,
+        "detail": "models.product",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "models.product",
+        "description": "models.product",
+        "isExtraImport": true,
+        "detail": "models.product",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "isExtraImport": true,
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_and_store_pages",
+        "importPath": "helpers.scrapper_helper",
+        "description": "helpers.scrapper_helper",
+        "isExtraImport": true,
+        "detail": "helpers.scrapper_helper",
+        "documentation": {}
+    },
+    {
+        "label": "user_schema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "tortoise.exceptions",
+        "description": "tortoise.exceptions",
+        "isExtraImport": true,
+        "detail": "tortoise.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "user_helper",
+        "importPath": "helpers",
+        "description": "helpers",
+        "isExtraImport": true,
+        "detail": "helpers",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "ExpiredSignatureError",
+        "importPath": "jwt",
+        "description": "jwt",
+        "isExtraImport": true,
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "InvalidTokenError",
+        "importPath": "jwt",
+        "description": "jwt",
+        "isExtraImport": true,
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDBAsyncClient",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "BaseDBAsyncClient",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Tortoise",
+        "importPath": "tortoise",
+        "description": "tortoise",
+        "isExtraImport": true,
+        "detail": "tortoise",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tortoise.models",
+        "description": "tortoise.models",
+        "isExtraImport": true,
+        "detail": "tortoise.models",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "tortoise.models",
+        "description": "tortoise.models",
+        "isExtraImport": true,
+        "detail": "tortoise.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "register_tortoise",
+        "importPath": "tortoise.contrib.fastapi",
+        "description": "tortoise.contrib.fastapi",
+        "isExtraImport": true,
+        "detail": "tortoise.contrib.fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "db_setup",
+        "description": "db_setup",
+        "isExtraImport": true,
+        "detail": "db_setup",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "user_controller",
+        "importPath": "controllers",
+        "description": "controllers",
+        "isExtraImport": true,
+        "detail": "controllers",
+        "documentation": {}
+    },
+    {
+        "label": "scrapper_controller",
+        "importPath": "controllers",
+        "description": "controllers",
+        "isExtraImport": true,
+        "detail": "controllers",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "helpers.scrapper_helper",
+        "description": "helpers.scrapper_helper",
+        "peekOfCode": "headers = {\n    \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64)\"\n}\nasync def scrape_and_store_pages(start_page: int, end_page: int):\n    for page in range(start_page, end_page + 1):\n        print(f\"Scraping page {page}...\")\n        url = f\"https://priceoye.pk/mobiles?page={page}\"\n        response = requests.get(url, headers=headers)\n        soup = BeautifulSoup(response.content, \"html.parser\")\n        cards = soup.select(\"div.productBox\")",
+        "detail": "helpers.scrapper_helper",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\nSECRET_KEY = 'abcdef'\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(user_id: int) -> str:\n    expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    payload = {\"sub\": str(user_id), \"exp\": expire}",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\nSECRET_KEY = 'abcdef'\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(user_id: int) -> str:\n    expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    payload = {\"sub\": str(user_id), \"exp\": expire}\n    token = jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)\n    return token",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "def create_access_token(user_id: int) -> str:\n    expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    payload = {\"sub\": str(user_id), \"exp\": expire}\n    token = jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)\n    return token\nsecurity = HTTPBearer()\nasync def get_current_user(\n    token: Annotated[HTTPAuthorizationCredentials, Depends(security)]\n):\n    try:",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\nSECRET_KEY = 'abcdef'\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(user_id: int) -> str:\n    expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "SECRET_KEY = 'abcdef'\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(user_id: int) -> str:\n    expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    payload = {\"sub\": str(user_id), \"exp\": expire}\n    token = jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)\n    return token\nsecurity = HTTPBearer()\nasync def get_current_user(",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(user_id: int) -> str:\n    expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    payload = {\"sub\": str(user_id), \"exp\": expire}\n    token = jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)\n    return token\nsecurity = HTTPBearer()\nasync def get_current_user(\n    token: Annotated[HTTPAuthorizationCredentials, Depends(security)]",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(user_id: int) -> str:\n    expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    payload = {\"sub\": str(user_id), \"exp\": expire}\n    token = jwt.encode(payload, SECRET_KEY, algorithm=ALGORITHM)\n    return token\nsecurity = HTTPBearer()\nasync def get_current_user(\n    token: Annotated[HTTPAuthorizationCredentials, Depends(security)]\n):",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "kind": 5,
+        "importPath": "helpers.user_helper",
+        "description": "helpers.user_helper",
+        "peekOfCode": "security = HTTPBearer()\nasync def get_current_user(\n    token: Annotated[HTTPAuthorizationCredentials, Depends(security)]\n):\n    try:\n        token = token.credentials\n        print(f\"Token = {token}\")\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        user_id: str = payload.get(\"sub\")\n        if user_id is None:",
+        "detail": "helpers.user_helper",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "models.product",
+        "description": "models.product",
+        "peekOfCode": "class Product(Model):\n    id = fields.IntField(pk=True)\n    title = fields.CharField(max_length=255)\n    price = fields.CharField(max_length=50)\n    image_url = fields.CharField(max_length=500, null=True)\n    link = fields.CharField(max_length=500, unique=True)\n    rating = fields.CharField(max_length=10, null=True)\n    reviews = fields.CharField(max_length=10, null=True)\n    created_at = fields.DatetimeField(auto_now_add=True)\n    class Meta:",
+        "detail": "models.product",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models.user",
+        "description": "models.user",
+        "peekOfCode": "class User(Model):\n    id=fields.IntField(pk=True)\n    username=fields.CharField(max_length=50)\n    email=fields.CharField(unique=True,max_length=40)\n    password=fields.CharField(max_length=80)\n    def __str__(self):\n        return self.username",
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "peekOfCode": "class UserCreate(BaseModel):\n    username:str\n    email:EmailStr\n    password:str    \nclass Userlogin(BaseModel):\n    email:EmailStr\n    password:str\nclass UserUpdate(BaseModel):\n    username: Optional[str] = None\n    email: Optional[EmailStr] = None",
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Userlogin",
+        "kind": 6,
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "peekOfCode": "class Userlogin(BaseModel):\n    email:EmailStr\n    password:str\nclass UserUpdate(BaseModel):\n    username: Optional[str] = None\n    email: Optional[EmailStr] = None\n    password: Optional[str] = None",
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "schemas.user_schema",
+        "description": "schemas.user_schema",
+        "peekOfCode": "class UserUpdate(BaseModel):\n    username: Optional[str] = None\n    email: Optional[EmailStr] = None\n    password: Optional[str] = None",
+        "detail": "schemas.user_schema",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "kind": 2,
+        "importPath": "db_setup",
+        "description": "db_setup",
+        "peekOfCode": "def init_db(app):\n    register_tortoise(\n        app,\n        db_url=\"postgres://postgres:postgres@localhost:5433/scrapping\",\n        modules={\"models\": [\"models.user\",\"models.product\", \"aerich.models\"]},  \n        generate_schemas=True,\n        add_exception_handlers=True,\n    )\n    Tortoise.init_models([\"models.user\"], \"models\")\nTORTOISE_ORM = {",
+        "detail": "db_setup",
+        "documentation": {}
+    },
+    {
+        "label": "TORTOISE_ORM",
+        "kind": 5,
+        "importPath": "db_setup",
+        "description": "db_setup",
+        "peekOfCode": "TORTOISE_ORM = {\n    \"connections\": {\n        \"default\": \"postgres://postgres:postgres@localhost:5433/scrapping\"\n    },\n    \"apps\": {\n        \"models\": {\n            \"models\": [\"models.user\",\"models.product\",  \"aerich.models\"],\n            \"default_connection\": \"default\",\n        }\n    }",
+        "detail": "db_setup",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def greet():\n    return(\"hello\")\napp.include_router(user_controller.router,  prefix=\"/api/user\",tags=[\"USERS\"])\napp.include_router(scrapper_controller.router,  prefix=\"/api/products\",tags=[\"Products\"])",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "origins = [\n    \"http://localhost:5173\",\n    \"http://localhost:3000\"\n]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,           \n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "main",
+        "documentation": {}
+    }
+]
