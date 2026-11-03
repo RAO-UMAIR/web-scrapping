@@ -4,7 +4,7 @@ from tortoise import Tortoise
 def init_db(app):
     register_tortoise(
         app,
-        db_url="postgres://postgres:postgres@localhost:5433/scrapping",
+        db_url="postgres://postgres:postgres@localhost:5432/scrapping",
         modules={"models": ["models.user","models.product", "aerich.models"]},  
         generate_schemas=True,
         add_exception_handlers=True,
@@ -15,7 +15,7 @@ def init_db(app):
 
 TORTOISE_ORM = {
     "connections": {
-        "default": "postgres://postgres:postgres@localhost:5433/scrapping"
+        "default": "postgres://postgres:postgres@localhost:5432/scrapping"
     },
     "apps": {
         "models": {
